@@ -23,6 +23,8 @@ p {
 }
 img {
   display: block;
+  max-width: 100%;
+  height: auto;
 }
 .container {
   max-width: 1128px;
@@ -257,4 +259,8 @@ button {
 }
 .logo-color-foot {
   color: #f4f4fd;
+}
+.foot-description {
+  width: 264px;
+  margin: 16px 0 0 0;
 }
