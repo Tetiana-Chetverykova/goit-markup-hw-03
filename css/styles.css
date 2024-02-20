@@ -212,8 +212,6 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-  margin-top: 8px;
-  margin-bottom: 32px;
 }
 .portfolio-list {
   display: flex;
@@ -237,7 +235,6 @@ button {
 }
 .portfolio-item {
   width: calc((100% - 48px) / 3);
-  margin-bottom: 48px;
 }
 
 .name-description-portfolio {
@@ -246,8 +243,6 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-  margin-top: 8px;
-  margin-bottom: 32px;
 }
 .foot-padding {
   padding-top: 100px;
@@ -278,5 +273,4 @@ button {
 }
 .foot-description {
   width: 264px;
-  margin: 16px 0 0 0;
 }
