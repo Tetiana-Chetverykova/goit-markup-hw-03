@@ -219,6 +219,7 @@ button {
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
+  row-gap: 48px;
 }
 .portfolio-information {
   padding: 32px 16px;
